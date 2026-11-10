@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Ravi Cloud DevOps Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 
 <h3 align="center">Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
