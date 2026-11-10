@@ -181,6 +181,29 @@ Courses completed:
 ![GitHub Streak](https://streak-stats.demolab.com?user=ravidangi41&theme=tokyonight&hide_border=true)
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravidangi41&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidangi41&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ravidangi41&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🌟 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravidangi41&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 
 ## 🎯 Career Objective
 
