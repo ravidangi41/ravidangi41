@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravi</h1>
 
-<!--
-**ravidangi41/ravidangi41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Learning, Building and Automating Cloud Infrastructure
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🌩️ Aspiring Cloud & DevOps Engineer
+- ☁️ Learning AWS and Cloud Computing
+- 🐧 Practicing Linux and Shell Scripting
+- 🔧 Working with Git, GitHub, GitLab and Jenkins
+- 🐳 Exploring Docker and Kubernetes
+- 🏗️ Learning Terraform and Infrastructure as Code
+- 📊 Background in Python and Data Analytics
+- 🎯 Goal: Build scalable and reliable cloud infrastructure
+
+### 🛠️ Technologies & Tools
+
+- Cloud: AWS
+- OS: Linux, Ubuntu
+- Version Control: Git, GitHub, GitLab
+- CI/CD: Jenkins
+- Containers: Docker, Kubernetes
+- IaC: Terraform
+- Monitoring: Grafana
+- Programming: Python, SQL
+- Data: Power BI, Excel
+
+---
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/ravidangi41
+-
