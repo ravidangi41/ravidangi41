@@ -1,3 +1,7 @@
+![Ravi Cloud DevOps Banner](./github-banner.png.jpeg)
+
+---
+
 # 👋 Hi, I'm Ravi
 
 ### 🚀 Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform
